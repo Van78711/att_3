@@ -1,0 +1,9 @@
+rootProject.name = 'Ivan_Pavlov_2_att'
+include 'model'
+include 'serializer'
+include 'generator'
+include 'deserializer'
+include 'databace'
+include 'console'
+include 'servlet_module'
+
